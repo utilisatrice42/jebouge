@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img alt="Jebouge" src="https://zupimages.net/up/19/17/keyv.png" width="200" />
+    <img alt="Jebouge" src="https://zupimages.net/up/19/17/keyv.png" width="400" />
 </p>
 <h1 align="center">
   Website for "Je bouge pour les droits des femmes"
