@@ -9,22 +9,12 @@ function Badge (props){
 
            <div className="box" >
 
-            <h2> Badges féministes </h2>
+           <h2> En savoir plus ? </h2>
               <p>
 
-                  <ul>
-                  <li>Viens créer ton propre badge féministe ! <br/>
-                  Une badgeuse et du matériel créatif sera mis à ta disposition </li>
-
-                  <li> Achète ton badge de l'évènement et des associations organisatrices <br/>
-
-                  x € (les gains servent à financer l'évènement et d'autres actions féministes)
-                  </li>
-
-                  </ul>
+                 Revenez sur le site début juin! <br/>
 
               </p>
-
 
            </div>
 

@@ -1,4 +1,5 @@
 import React from 'react';
+import parcours from '../../images/parcours-jbdf.png';
 
 function Trail (props){
 
@@ -7,14 +8,18 @@ function Trail (props){
         <div style={{display: props.trail? "block" : "none"}}>
 
 
-           <div className="box" >
+           <div className="boxtrail" >
 
-            <h2> Savoirs féministes </h2>
+            <h2> Parcours de 3 · 6 · 9 km </h2>
               <p>
 
-                  L'évènement sera parsemé de BLABLABLABLABLA <br/>
+                  Choisis la manière dont tu vas faire ton parcours : à faire en marchant
+                  ou en courant, seul·e ou en groupe, accessible à tou·te·s, aux personnes à mobilité réduite et aux poussettes. 
 
+                
               </p>
+
+              <img style={{width:"400px"}} src={parcours} />
 
 
            </div>

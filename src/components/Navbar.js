@@ -17,8 +17,8 @@ class Navbar extends React.Component {
 
       <nav className = "navbar">
 
-      <Link activeClass="nav-active" to="firstpgnav" spy={true} smooth={true} offset={0} duration={500}>
-          <a className="nav-link" a href="#firstpgnav">
+      <Link activeClass="nav-active" to="firstpgbispgnav" spy={true} smooth={true} offset={0} duration={500}>
+            <a className="nav-link" a href="#firstpgbis">
 
             <button className="event">
 
@@ -37,7 +37,7 @@ class Navbar extends React.Component {
                   </svg>
 
               <Link activeClass="nav-active" to="secondpgnav" spy={true} smooth={true} offset={0} duration={500}>
-                  <a className="nav-link" a href="#secondpgnav">
+                  <a className="nav-link" a href="#secondpg">
                       <button className="activities">
 
                           Les activités
@@ -58,7 +58,7 @@ class Navbar extends React.Component {
                       <a className="nav-link" a href="#thirdpg">
                           <button className="team">
 
-                              La team
+                              Les organisatrices
 
                           </button>
                       </a>
@@ -66,11 +66,11 @@ class Navbar extends React.Component {
 
 
 
-            <button className="subscription">
+            <a className="subscription" href = "https://www.facebook.com/events/577544409396268/" target="_blank">
 
                 S'inscrire
 
-             </button>
+             </a>
       </nav>
     );
   }

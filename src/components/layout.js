@@ -12,6 +12,7 @@ import { StaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import Footer from "./Footer"
 import Firstpg from "./firstpg"
+import Firstpgbis from "./firstpgbis"
 import Secondpg from "./secondpg"
 import Thirdpg from "./thirdpg"
 import "./layout.scss"
@@ -45,6 +46,8 @@ const Layout = ({ children }) => (
 
 
           <Firstpg />
+
+          <Firstpgbis />
 
           <Secondpg />
 

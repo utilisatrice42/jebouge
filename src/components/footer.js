@@ -12,7 +12,10 @@ render(){
 
         <footer className = "footerstyle">
         <div className = "credits">
-        <p>Site web - <a href = "https://lau-bel.github.io/cv-web/" target="_blank">Belferroum Laura</a>         Logo : <a target="_blank" href = "https://www.behance.net/LibertRemi?fbclid=IwAR1SjMhqlV6Vz1-R6i-8Oghmi9Na6xLdy_Zg8kgHAEvsnk5aRJcFAJmgZW0">Remi Libert</a> <br/>
+        <p> Site web - <a href = "https://lau-bel.github.io/cv-web/" target="_blank">Belferroum Laura</a>         Logo - <a target="_blank" href = "https://www.behance.net/LibertRemi?fbclid=IwAR1SjMhqlV6Vz1-R6i-8Oghmi9Na6xLdy_Zg8kgHAEvsnk5aRJcFAJmgZW0">Remi Libert</a>
+               Video (CC-BY-NC-ND) - <a href = "https://www.facebook.com/La-bulle-dAnnia-298859087392147/" target="_blank">La bulle d'Annia</a> 
+        <br/>
+        
         Site built with <a href = "https://www.gatsbyjs.org/" target="_blank">Gatsby</a> </p>
         </div>
           <div className="textfooter" >

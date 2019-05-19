@@ -37,6 +37,7 @@ ul {
 }
 
 
+
 ///////////////////////---- > Header <----///////////////////////////
 
 header {
@@ -59,18 +60,19 @@ button{
 
 }
 
-.subscription{
+a.subscription{
   padding : 10px 20px 10px 20px;
   border-radius : 10px;
   background-color: $color2;
-  color : $color4;
   margin-left: 50px;
   margin-right: 50px;
+}
+a.subscription:hover {
+  background-color: transparent;
 }
 
 .navbar{
 
-  display : inline-block;
   float: right;
   padding-top: 20px;
 
@@ -149,12 +151,14 @@ display : inline-block;
   border : solid $color1 1px;
   padding: 20px;
   border-radius: 20px;
-  width : 40%;
+  width : 60%;
   margin : 0 auto;
-  top : 40%;
-  left : 30%;
+  top : 25%;
+  left : 20%;
   justify-content: center;
   position : absolute;
+  text-align : justify;
+  line-height: 22px;
 
 }
 
@@ -172,7 +176,68 @@ z-index: 50;
 }
 
 
+///////////////////////---- > Slide 1 bis <----///////////////////////////
 
+.firstpgbis {
+
+  width : 100vw;
+  height: 100vh;
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFF4F4 47.92%, #FFFFFF 100%);
+  padding-top: 90px;
+
+
+  #descriptionevent{
+
+    font-size: 30px;
+    line-height: 70px;
+
+    @media only screen and (max-width: 1000px) {
+
+        display : none;
+
+
+    }
+
+  }
+
+  li:hover {
+
+    color : $color2;
+
+  }
+
+  .dots {
+  width : 100%;
+  opacity : 0.3;
+  position : absolute ;
+  z-index: 40;
+  top : 1300px;
+
+}
+
+.boxtrail{
+
+  border : solid $color1 1px;
+  padding: 20px;
+  border-radius: 20px;
+  margin : 0 auto;
+  top : 122%;
+  left : 45%;
+  justify-content: center;
+  position : absolute;
+  width : 40%;
+  text-align: justify;
+
+  
+
+}
+
+h3 {
+  font-size : 20px;
+}
+
+
+}
 
 ///////////////////////---- > Slide 2 <----///////////////////////////
 
@@ -210,6 +275,7 @@ z-index: 50;
   opacity : 0.3;
   position : absolute ;
   z-index: 40;
+  top : 300%;
 
 }
 
@@ -233,9 +299,11 @@ img {
 
 .viefeminine {
 
+
       p{
         display : inline-block;
         margin-left: 80px;
+        text-align: justify;
 
       }
 }
@@ -245,8 +313,21 @@ img {
       p {
         display : inline-block;
         margin-left: 40px;
+        text-align: justify;
+        
 
       }
+}
+
+.partnership{
+
+  position : absolute; 
+  top : 385%;
+  left : 60%;
+
+  h2 {
+    font-size:14px;
+  }
 }
 
 
@@ -261,7 +342,7 @@ img {
   padding: 20px;
   border-radius: 20px;
   margin : 0 auto;
-  top : 150%;
+  top : 250%;
   left : 45%;
   justify-content: center;
   position : absolute;
@@ -274,8 +355,8 @@ img {
   padding: 20px;
   border-radius: 20px;
   margin : 0 auto;
-  top : 130%;
-  left : 45%;
+  top : 125%;
+  left : 40%;
   justify-content: center;
   position : absolute;
   max-width: 40%;

@@ -9,10 +9,10 @@ function Photobooth (props){
 
            <div className="box" >
 
-            <h2> Savoirs féministes </h2>
+            <h2> En savoir plus ? </h2>
               <p>
 
-                  L'évènement sera parsemé de BLABLABLABLABLA <br/>
+                 Revenez sur le site début juin! <br/>
 
               </p>
 
