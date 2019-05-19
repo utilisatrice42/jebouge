@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, Element , Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
+import { Link, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
 
 class Navbar extends React.Component {
 
@@ -64,13 +64,20 @@ class Navbar extends React.Component {
                       </a>
                   </Link>
 
+                  <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+                    <circle cx="28" cy="45" r="4"  fill="#292727" id="strokecircle">
+
+                    </circle>
+
+                    </svg>
 
 
-            <a className="subscription" href = "https://docs.google.com/forms/d/e/1FAIpQLSfTnwZA5NungZ4MP6pfkmpezHpS7qyGFf7_zhdOCRMyY2YWsA/viewform" target="_blank">
-
-                S'inscrire
-
-             </a>
+                  <a  href = "https://docs.google.com/forms/d/e/1FAIpQLSfTnwZA5NungZ4MP6pfkmpezHpS7qyGFf7_zhdOCRMyY2YWsA/viewform" target="_blank">
+                        <button className="subscription">
+                        S'inscrire
+                        </button>
+                    </a>
       </nav>
     );
   }
