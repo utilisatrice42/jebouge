@@ -57,18 +57,23 @@ button{
   font-size: 18px;
   padding: 0 auto;
   margin : 0 auto;
+  cursor: pointer;
 
 }
 
-a.subscription{
+.subscription{
   padding : 10px 20px 10px 20px;
   border-radius : 10px;
   background-color: $color2;
   margin-left: 50px;
   margin-right: 50px;
+  color : white;
+  cursor: pointer;
 }
-a.subscription:hover {
+.subscription:hover {
   background-color: transparent;
+  color : black;
+  border : solid 1px $color2 ;
 }
 
 .navbar{
@@ -190,6 +195,7 @@ z-index: 50;
 
     font-size: 30px;
     line-height: 70px;
+    cursor: pointer;
 
     @media only screen and (max-width: 1000px) {
 
@@ -254,6 +260,7 @@ h3 {
 
     font-size: 30px;
     line-height: 70px;
+    cursor: pointer;
 
     @media only screen and (max-width: 1000px) {
 
@@ -298,6 +305,8 @@ img {
 }
 
 .viefeminine {
+
+  margin-left: 20px;
 
 
       p{
