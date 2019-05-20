@@ -66,11 +66,11 @@ class Navbar extends React.Component {
 
 
 
-            <a className="subscription" href = "https://www.facebook.com/events/577544409396268/" target="_blank">
-
-                S'inscrire
-
-             </a>
+             <a  href = "https://docs.google.com/forms/d/e/1FAIpQLSfTnwZA5NungZ4MP6pfkmpezHpS7qyGFf7_zhdOCRMyY2YWsA/viewform" target="_blank">
+                        <button className="subscription">
+                        S'inscrire
+                        </button>
+                    </a>
       </nav>
     );
   }
