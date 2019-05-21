@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, Element , Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
+import { Link } from 'react-scroll'
 
 class Navbar extends React.Component {
 
@@ -66,7 +66,7 @@ class Navbar extends React.Component {
 
 
 
-             <a  href = "https://docs.google.com/forms/d/e/1FAIpQLSfTnwZA5NungZ4MP6pfkmpezHpS7qyGFf7_zhdOCRMyY2YWsA/viewform" target="_blank">
+             <a  href = "https://docs.google.com/forms/d/e/1FAIpQLSfTnwZA5NungZ4MP6pfkmpezHpS7qyGFf7_zhdOCRMyY2YWsA/viewform" target="_blank" rel="noopener noreferrer">
                         <button className="subscription">
                         S'inscrire
                         </button>

@@ -3,7 +3,6 @@ import React from "react";
 import Badge from "./details/badge.js"
 import Learn from "./details/learn.js"
 import Photobooth from "./details/photobooth.js"
-import Rights from "./details/rights.js"
 import dots from "../images/Dots.png"
 
 
@@ -55,7 +54,7 @@ render(){
 
                 </ul>
 
-                <img className = "dots" src={dots} />
+                <img className = "dots" src={dots} alt="decoratives dots" />
 
 
 

@@ -61,7 +61,7 @@ class Firstpgbis extends React.Component {
 
                   </ul>
   
-                  <img className = "dots" src={dots} />
+                  <img className = "dots" src={dots} alt="decorativesdots" />
   
   
   

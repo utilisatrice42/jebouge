@@ -47,7 +47,7 @@ Ce <b>dimanche 30 juin</b>, au parc de la Citadelle de <b>Liège</b>, bougeons e
                   <img src={venus} className="venus"  alt="Venuslogo"/>
               </div>
 
-              <img className = "dots" src={dots} />
+              <img className = "dots" src={dots} alt="decorativesdots" />
 
 
 
