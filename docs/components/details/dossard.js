@@ -26,7 +26,7 @@ function Dossard (props){
               </p>
 
               
-
+            
               <h2>Inscris-toi! </h2>
 
 

@@ -14,7 +14,7 @@ render(){
 
             <div className = "viefeminine">
 
-                <img src={viefeminine} style={{width:"150px"}}/>
+                <img src={viefeminine} style={{width:"150px"}} alt="logo vie féminine"/>
 
                 <p style={{width:"800px"}}> L’égalité pour changer !
                   Vie Féminine, un mouvement créé par et pour les femmes, proche de chez vous.
@@ -30,7 +30,7 @@ render(){
 
             <div className="ets">
 
-                <img src={ets} style={{width:"200px"}}/>
+                <img src={ets} style={{width:"200px"}} alt="logo Collectif Et ta soeur"/>
 
                 <p style={{width:"400px"}}> « Et ta sœur ? » est un collectif liégeois de jeunes militantes, engagées en faveur des droits des femmes. 
                 Issu de Vie Feminine, le collectif participe à lutter à la fois contre le capitalisme, le racisme et le patriarcat qui touchent de plein fouet et en 

@@ -24,7 +24,9 @@ function Program (props){
               Tu auras jusqu’à 16h pour profiter pleinement de ce dimanche au soleil avec nous.
               </p>
 
-              <h2>Inscris-toi! </h2>
+              <a href = "https://docs.google.com/forms/d/e/1FAIpQLSfTnwZA5NungZ4MP6pfkmpezHpS7qyGFf7_zhdOCRMyY2YWsA/viewform" target="_blank">
+                  <h2>Inscris-toi! </h2>
+              </a>
 
 
 

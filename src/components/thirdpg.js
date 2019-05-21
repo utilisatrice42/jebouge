@@ -1,8 +1,13 @@
 
 import React from "react";
 
-import viefeminine from "../images/VFlogo.png"
-import ets from "../images/ETS.png"
+import viefeminine from "../images/VFlogo.png";
+import ets from "../images/ETS.png";
+import fwb from "../images/FWB.svg";
+import liegesport from "../images/liegesport.png";
+import liegeville from "../images/Liegeville.svg";
+
+
 
 class Thirdpg extends React.Component {
 
@@ -42,7 +47,11 @@ render(){
 
              <div className="partnership">
 
-             <h2> Partenaires : </h2>
+                  <h2> Partenaires : </h2>
+
+                      <img src={liegesport} style={{width:"150px"}}/>
+                      <img src={liegeville} style={{width:"100px"}}/>
+                      <img src={fwb} style={{width:"100px"}}/>
 
              </div>
 

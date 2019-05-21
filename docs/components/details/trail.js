@@ -19,7 +19,7 @@ function Trail (props){
                 
               </p>
 
-              <img style={{width:"400px"}} src={parcours} />
+              <img style={{width:"400px"}} src={parcours} alt="map of trail" />
 
 
            </div>

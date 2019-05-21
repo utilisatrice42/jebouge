@@ -13,7 +13,7 @@ const Header = ({ siteTitle }) => (
   >
     <div className = "logo">
     <a className="nav-link" a href="#firstpgnav">
-    <img src={logo} style={{width:"200px"}}/>
+    <img src={logo} style={{width:"200px"}} alt = "logo event"/>
     </a>
     </div>
 
