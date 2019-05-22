@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from 'react-scroll'
+import Subscription from "./subscription.js";
 
 class Navbar extends React.Component {
 
@@ -65,12 +66,10 @@ class Navbar extends React.Component {
                   </Link>
 
 
+                  
+                       < Subscription />
+                
 
-             <a  href = "https://docs.google.com/forms/d/e/1FAIpQLSfTnwZA5NungZ4MP6pfkmpezHpS7qyGFf7_zhdOCRMyY2YWsA/viewform" target="_blank" rel="noopener noreferrer">
-                        <button className="subscription">
-                        S'inscrire
-                        </button>
-                    </a>
       </nav>
     );
   }
