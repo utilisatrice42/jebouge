@@ -9,10 +9,12 @@ function Rights (props){
 
            <div className="box" >
 
-            <h2> Savoirs féministes </h2>
+            <h2> Le jeu des privilèges </h2>
               <p>
 
-                  L'évènement sera parsemé de BLABLABLABLABLA <br/>
+              Notre sexe, notre genre, notre orientation sexuelle, notre couleur de peau, nos origines, notre religion nous
+ouvrent ou nous ferment des portes dans la société... Participe au jeu des privilèges pour en prendre
+conscience.
 
               </p>
 

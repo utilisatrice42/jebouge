@@ -9,10 +9,11 @@ function Learn (props){
 
            <div className="box" >
 
-           <h2> En savoir plus ? </h2>
+           <h2> Teste tes connaissances </h2>
               <p>
 
-                 Revenez sur le site début juin! <br/>
+              Femmes liégeoises féministes : Connais-tu les grandes figures féministes liégeoises ? Tout au long du
+parcours, teste tes connaissances ! 
 
               </p>
            </div>

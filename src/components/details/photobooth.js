@@ -9,10 +9,11 @@ function Photobooth (props){
 
            <div className="box" >
 
-            <h2> En savoir plus ? </h2>
+            <h2> Te sens-tu l'âme d'une sorcière ? </h2>
               <p>
 
-                 Revenez sur le site début juin! <br/>
+               Viens jeter un sort dans le chaudron du patriarcat et immortalise le
+                moment ! <br/>
 
               </p>
 

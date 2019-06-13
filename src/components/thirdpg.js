@@ -6,6 +6,9 @@ import ets from "../images/ETS.png";
 import fwb from "../images/FWB.svg";
 import liegesport from "../images/liegesport.png";
 import liegeville from "../images/Liegeville.svg";
+import mutu from "../images/mutu.png";
+import moc from "../images/moc.png";
+import csc from "../images/csc.png";
 
 
 
@@ -52,6 +55,10 @@ render(){
                       <img src={liegesport} style={{width:"150px"}} alt="logo liège sport"/>
                       <img src={liegeville} style={{width:"100px"}} alt="logo liège ville"/>
                       <img src={fwb} style={{width:"100px"}} alt="logo fwb"/>
+                      <img src={mutu} style={{width:"100px"}} alt="logo mutualité chrétienne"/>
+                      <img src={moc} style={{width:"100px"}} alt="logo du Mouvement Ouvrier Chrétien"/>
+                      <img src={csc} style={{width:"100px"}} alt="logo de la CSC"/>
+
 
              </div>
 

@@ -9,10 +9,10 @@ function Badge (props){
 
            <div className="box" >
 
-           <h2> En savoir plus ? </h2>
+           <h2> Crée ton badge  </h2>
               <p>
 
-                 Revenez sur le site début juin! <br/>
+              Toi aussi tu aimes afficher tes idées sur ta veste ? Réalise ton badge féministe personnalisé ! <br/>
 
               </p>
 

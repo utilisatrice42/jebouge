@@ -12,7 +12,7 @@ render(){
 
         <footer className = "footerstyle">
         <div className = "credits">
-        <p>  - Site web : <a href = "https://lau-bel.github.io/cv-web/" target="_blank" rel="noopener noreferrer">Belferroum Laura</a>        - Logo : <a rel="noopener noreferrer" target="_blank" href = "https://www.behance.net/LibertRemi?fbclid=IwAR1SjMhqlV6Vz1-R6i-8Oghmi9Na6xLdy_Zg8kgHAEvsnk5aRJcFAJmgZW0">Remi Libert</a>
+        <p>  - Site web : <a href = "https://utilisatrice42.github.io/cv-web/" target="_blank" rel="noopener noreferrer">Belferroum Laura</a>        - Logo : <a rel="noopener noreferrer" target="_blank" href = "https://www.behance.net/LibertRemi?fbclid=IwAR1SjMhqlV6Vz1-R6i-8Oghmi9Na6xLdy_Zg8kgHAEvsnk5aRJcFAJmgZW0">Remi Libert</a>
                - Video (CC-BY-NC-ND) : <a href = "https://www.facebook.com/La-bulle-dAnnia-298859087392147/" target="_blank" rel="noopener noreferrer">La bulle d'Annia</a> 
         <br/>
         

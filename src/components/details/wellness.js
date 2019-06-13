@@ -9,10 +9,11 @@ function Wellness (props){
 
            <div className="box" >
 
-            <h2> Savoirs féministes </h2>
+            <h2> Copines de sport </h2>
               <p>
 
-                  L'évènement sera parsemé de BLABLABLABLABLA <br/>
+              Le sport tu aimes ça mais pas en solo ? Trouve une copine de sport, proche de chez toi, avec les mêmes
+envies, en t'inscrivant sur les panneaux !
 
               </p>
 
